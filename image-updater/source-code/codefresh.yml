@@ -11,7 +11,7 @@ steps:
   clone:
     title: "Cloning repository"
     type: "git-clone"
-    repo: "codefresh-contrib/gitops-certification-examples"
+    repo: "deluxeowl/gitops-certification-examples"
     revision: "main"
     stage: "clone"
 
